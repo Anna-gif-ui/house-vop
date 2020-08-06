@@ -1,0 +1,1 @@
+{"version":3,"sources":["header.scss"],"names":[],"mappings":"AAAA,OACI,sBAAuB","file":"header.css","sourcesContent":["header{\n    outline: 1px solid blue;\n}\n.logo{}\n\n.toggler{}\n\n.menu{\n    &__item{}\n\n    &__link{}\n}"]}
